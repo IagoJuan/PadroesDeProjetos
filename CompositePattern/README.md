@@ -1,0 +1,6 @@
+# CompositePattern
+
+## CompositePattern
+
+
+
