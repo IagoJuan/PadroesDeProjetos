@@ -19,4 +19,4 @@ O Method pode ser aplicável em casos que se tem uma hierarquia de classes se te
 
 - Útil em cenários em que se tem gerador automático de código.
 
-Um exemplo da utilização desse metodo é um criado em sala em um exercício dado pelo professor João Cunha e criado por mim Iago Juan [Exemplo Method Pattern] (https://github.com/IagoJuan/PadroesDeProjetos/tree/master/MethodPattern/ExemploMethodPattern).
+Um exemplo da utilização desse metodo é um criado em sala em um exercício dado pelo professor João Cunha e criado por mim Iago Juan [Exemplo Method Pattern](https://github.com/IagoJuan/PadroesDeProjetos/tree/master/MethodPattern/ExemploMethodPattern).
