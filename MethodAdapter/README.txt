@@ -1,4 +1,4 @@
-## Method Adapter
+** Method Adapter
 
 ## INTENTION
 A inteção para o uso do Adapter é fazer uma integração simples de dois códigos distintos em uma única aplicação.
