@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1506113365 source:c:\users\giulliano\dropbox\academico\aulas\ed\praticas\ed-i\prodcons\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<pthread.h>
+
+1506118539 source:e:\pto\dropbox\academico\aulas\ed\praticas\ed-i\prodcons\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<pthread.h>
+
